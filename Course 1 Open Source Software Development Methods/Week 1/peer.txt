@@ -1,0 +1,7 @@
+PROMPT
+Please submit your short essay. Make sure you select at least two reasons and provide sound arguments for your choices.
+
+1.Transparency: As the code is visible to everyone it gives better idea what the code does and whether it is reliable or not.
+
+2.Freedom: Using OSS also means user is not locked into using a particular vendor’s system that only work with their other systems.
+For example, iOS vs Android. In Android user gets lots of different alternatives to choose from but in case of iOS it's not possible.
